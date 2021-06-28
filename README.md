@@ -2,7 +2,11 @@
 Deber de los 15 ejercicios 
 
 Autores:
-Lizbeth Garcia
-Kevin Pulupa
-Kevin Veliz
-Christopher Vera
+
+  Lizbeth Garcia
+  
+  Kevin Pulupa
+  
+  Kevin Veliz
+  
+  Christopher Vera
